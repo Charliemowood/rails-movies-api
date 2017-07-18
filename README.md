@@ -1,5 +1,5 @@
 
-# Movie Rails API 
+# Rails Movies API 
 
 This app contains a movies API that returns and reponds to JSON.
 
