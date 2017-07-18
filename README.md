@@ -1,9 +1,7 @@
 
 # Movie Rails API 
 
-Movies API that returns and repond to JSON.
-
-The INDEX route is located at localhost:3000/api/shows
+This app contains a movies API that returns and reponds to JSON.
 
 To use run the app, run the following commands in Terminal:
 
@@ -20,4 +18,8 @@ To use run the app, run the following commands in Terminal:
 3. Populate the database:
      ```bash
      rake db:seed
+     ```
+4. Navigate to the API in your favourite browser: 
+     ```
+     localhost:3000/api/movies
      ```
